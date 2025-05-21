@@ -1,0 +1,7 @@
+Integrate a database to store network traffic data and security alerts
+
+Adds database functionality with psycopg2 to store packets, alerts, and traffic statistics.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 020d883e-1c40-403b-a3ef-aef342248685
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/263f612c-dc11-455f-ab75-567e647152c1/d53ff029-99aa-424f-b704-b4e727dd2c5e.jpg
